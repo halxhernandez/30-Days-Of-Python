@@ -3,8 +3,7 @@
 # 4.1. Concatenar las cadenas 'Thirty', 'Days', 'Of', 'Python' en una sola cadena: 'Thirty Days Of Python'
 
 word1, word2, word3, word4 = "Thirty", "Days", "Of", "Python"
-print("")
-print(word1, word2, word3, word4, "\n")
+print(f"\n{word1}, {word2}, {word3}, {word4}\n")
 
 # 4.2. Concatenar las cadenas 'Codificación', 'Para', 'Todos' en una sola cadena: 'Codificación Para Todos'
 

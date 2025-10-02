@@ -3,8 +3,6 @@
 # 3.1. Declarar edad como variable entera
 
 from math import pi
-
-
 age = 30
 
 # 3.2. Declarar altura como variable flotante
